@@ -1,0 +1,31 @@
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Fichiers sensibles (ne jamais commiter)
+*.env
+.env.*
+credentials.*
+password*
+secret*
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Notes personnelles
+NOTES*.md
+TODO*.md
+BROUILLON*
