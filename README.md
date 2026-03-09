@@ -26,15 +26,24 @@ Cette formation est basee sur :
 |--------|-------|:-------:|:-------:|
 | [M1.1](Module-1-Architecture/M1.1-Instance-vs-Database/) | Instance vs Database | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7404830055090032641-W67c) |
 | [M1.2](Module-1-Architecture/M1.2-Types-Fichiers-Oracle/) | Les 5 Types de Fichiers | 5 | [Carrousel](https://www.linkedin.com/posts/activity-7406230295471013888-Weae) |
-| M1.3 | Alert.log | - | [Carrousel](https://www.linkedin.com/posts/activity-7408767001642287104-lwKf) |
+| [M1.3](Module-1-Architecture/M1.3-Alert-Log/) | Alert.log | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7408767001642287104-lwKf) |
 | M1.4 | Memoire Oracle (SGA/PGA) | - | [Carrousel](https://www.linkedin.com/posts/activity-7411303730580602880-i2D_) |
 | M1.5 | Processus Background | - | [Carrousel](https://www.linkedin.com/posts/activity-7413840464006520832-Z555) |
 | M1.6 | Tablespaces et Datafiles | - | [Carrousel](https://www.linkedin.com/posts/activity-7416377171096670208-K9Ug) |
 | M1.7 | Online Redo Logs & Archivelog | - | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
 | M1.8 | Control Files | - | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
 | M1.9 | TEMP Tablespace | - | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
+| M1.10 | UNDO Tablespace et Transactions | - | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
+| M1.11 | Schemas et Utilisateurs Oracle | - | [Carrousel](https://www.linkedin.com/posts/activity-7429423185395322880-Ippe) |
+| M1.12 | Architecture Oracle - Vue d'ensemble | - | [Carrousel](https://www.linkedin.com/posts/activity-7431597458876628992-hmKZ) |
 
-> **Prochain module** : M1.10 - UNDO Tablespace (Lundi)
+### Module 2 : Gestion de l'Instance
+
+| Module | Titre | Scripts | Theorie |
+|--------|-------|:-------:|:-------:|
+| M2.1 | STARTUP - Demarrer une Instance | - | [Carrousel](https://www.linkedin.com/posts/activity-7434134151768846336-nxuZ) |
+
+> **Prochain module** : M2.2 - SHUTDOWN - Les 4 modes d'arret
 
 ---
 
