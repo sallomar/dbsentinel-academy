@@ -28,7 +28,7 @@ Cette formation est basee sur :
 | [M1.2](Module-1-Architecture/M1.2-Types-Fichiers-Oracle/) | Les 5 Types de Fichiers | 5 | [Carrousel](https://www.linkedin.com/posts/activity-7406230295471013888-Weae) |
 | [M1.3](Module-1-Architecture/M1.3-Alert-Log/) | Alert.log | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7408767001642287104-lwKf) |
 | [M1.4](Module-1-Architecture/M1.4-Memoire-SGA-PGA/) | Memoire Oracle (SGA/PGA) | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7411303730580602880-i2D_) |
-| M1.5 | Processus Background | - | [Carrousel](https://www.linkedin.com/posts/activity-7413840464006520832-Z555) |
+| [M1.5](Module-1-Architecture/M1.5-Processus-Background/) | Processus Background | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7413840464006520832-Z555) |
 | M1.6 | Tablespaces et Datafiles | - | [Carrousel](https://www.linkedin.com/posts/activity-7416377171096670208-K9Ug) |
 | M1.7 | Online Redo Logs & Archivelog | - | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
 | M1.8 | Control Files | - | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
@@ -42,8 +42,9 @@ Cette formation est basee sur :
 | Module | Titre | Scripts | Theorie |
 |--------|-------|:-------:|:-------:|
 | M2.1 | STARTUP - Demarrer une Instance | - | [Carrousel](https://www.linkedin.com/posts/activity-7434134151768846336-nxuZ) |
+| M2.2 | SHUTDOWN - Les 4 modes d'arret | - | [Carrousel](https://www.linkedin.com/posts/activity-7442106690386329600-E-si) |
 
-> **Prochain module** : M2.2 - SHUTDOWN - Les 4 modes d'arret
+> **Prochain module** : M2.3 - Les Utilisateurs Oracle
 
 ---
 
