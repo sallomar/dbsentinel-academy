@@ -29,7 +29,7 @@ Cette formation est basee sur :
 | [M1.3](Module-1-Architecture/M1.3-Alert-Log/) | Alert.log | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7408767001642287104-lwKf) |
 | [M1.4](Module-1-Architecture/M1.4-Memoire-SGA-PGA/) | Memoire Oracle (SGA/PGA) | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7411303730580602880-i2D_) |
 | [M1.5](Module-1-Architecture/M1.5-Processus-Background/) | Processus Background | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7413840464006520832-Z555) |
-| M1.6 | Tablespaces et Datafiles | - | [Carrousel](https://www.linkedin.com/posts/activity-7416377171096670208-K9Ug) |
+| [M1.6](Module-1-Architecture/M1.6-Tablespaces-Datafiles/) | Tablespaces et Datafiles | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7416377171096670208-K9Ug) |
 | M1.7 | Online Redo Logs & Archivelog | - | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
 | M1.8 | Control Files | - | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
 | M1.9 | TEMP Tablespace | - | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
