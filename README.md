@@ -43,8 +43,9 @@ Cette formation est basee sur :
 |--------|-------|:-------:|:-------:|
 | M2.1 | STARTUP - Demarrer une Instance | - | [Carrousel](https://www.linkedin.com/posts/activity-7434134151768846336-nxuZ) |
 | M2.2 | SHUTDOWN - Les 4 modes d'arret | - | [Carrousel](https://www.linkedin.com/posts/activity-7442106690386329600-E-si) |
+| M2.3 | SPFILE vs PFILE - Parametrage | - | [Carrousel](https://www.linkedin.com/posts/activity-7447168873142988800-YSV2) |
 
-> **Prochain module** : M2.3 - SPFILE vs PFILE - Parametrage
+> **Prochain module** : M2.4 - Vues V$ - Interroger l'Instance
 
 ---
 
