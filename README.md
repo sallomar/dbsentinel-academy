@@ -30,7 +30,7 @@ Cette formation est basee sur :
 | [M1.4](Module-1-Architecture/M1.4-Memoire-SGA-PGA/) | Memoire Oracle (SGA/PGA) | 3 | [Carrousel](https://www.linkedin.com/posts/activity-7411303730580602880-i2D_) |
 | [M1.5](Module-1-Architecture/M1.5-Processus-Background/) | Processus Background | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7413840464006520832-Z555) |
 | [M1.6](Module-1-Architecture/M1.6-Tablespaces-Datafiles/) | Tablespaces et Datafiles | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7416377171096670208-K9Ug) |
-| M1.7 | Online Redo Logs & Archivelog | - | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
+| [M1.7](Module-1-Architecture/M1.7-Online-Redo-Logs-Archivelog/) | Online Redo Logs & Archivelog | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
 | M1.8 | Control Files | - | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
 | M1.9 | TEMP Tablespace | - | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
 | M1.10 | UNDO Tablespace et Transactions | - | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
@@ -44,8 +44,9 @@ Cette formation est basee sur :
 | M2.1 | STARTUP - Demarrer une Instance | - | [Carrousel](https://www.linkedin.com/posts/activity-7434134151768846336-nxuZ) |
 | M2.2 | SHUTDOWN - Les 4 modes d'arret | - | [Carrousel](https://www.linkedin.com/posts/activity-7442106690386329600-E-si) |
 | M2.3 | SPFILE vs PFILE - Parametrage | - | [Carrousel](https://www.linkedin.com/posts/activity-7447168873142988800-YSV2) |
+| M2.4 | Vues V$ - Interroger l'Instance | - | [Carrousel](https://www.linkedin.com/posts/activity-7452238494707560448-01VG) |
 
-> **Prochain module** : M2.4 - Vues V$ - Interroger l'Instance
+> **Prochain module** : M2.5 - ALTER SYSTEM - Modifier les Parametres
 
 ---
 
