@@ -45,8 +45,10 @@ Cette formation est basee sur :
 | M2.2 | SHUTDOWN - Les 4 modes d'arret | - | [Carrousel](https://www.linkedin.com/posts/activity-7442106690386329600-E-si) |
 | M2.3 | SPFILE vs PFILE - Parametrage | - | [Carrousel](https://www.linkedin.com/posts/activity-7447168873142988800-YSV2) |
 | M2.4 | Vues V$ - Interroger l'Instance | - | [Carrousel](https://www.linkedin.com/posts/activity-7452238494707560448-01VG) |
+| M2.5 | ALTER SYSTEM - Modifier les Parametres | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m25-alter-system-modifier-les-param%C3%A8tres-ugcPost-7456858061585031170-KeDX) |
+| M2.6 | Diagnostic STARTUP - Alert.log et Recovery | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m26-diagnostic-startup-alertlog-et-ugcPost-7459795577426518016-iqYr) |
 
-> **Prochain module** : M2.5 - ALTER SYSTEM - Modifier les Parametres
+> **Prochain module** : M2.7 - Recovery Automatique au Demarrage
 
 ---
 
