@@ -31,7 +31,7 @@ Cette formation est basee sur :
 | [M1.5](Module-1-Architecture/M1.5-Processus-Background/) | Processus Background | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7413840464006520832-Z555) |
 | [M1.6](Module-1-Architecture/M1.6-Tablespaces-Datafiles/) | Tablespaces et Datafiles | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7416377171096670208-K9Ug) |
 | [M1.7](Module-1-Architecture/M1.7-Online-Redo-Logs-Archivelog/) | Online Redo Logs & Archivelog | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
-| M1.8 | Control Files | - | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
+| [M1.8](Module-1-Architecture/M1.8-Control-Files/) | Control Files | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
 | M1.9 | TEMP Tablespace | - | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
 | M1.10 | UNDO Tablespace et Transactions | - | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
 | M1.11 | Schemas et Utilisateurs Oracle | - | [Carrousel](https://www.linkedin.com/posts/activity-7429423185395322880-Ippe) |
