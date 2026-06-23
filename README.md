@@ -33,7 +33,7 @@ Cette formation est basee sur :
 | [M1.7](Module-1-Architecture/M1.7-Online-Redo-Logs-Archivelog/) | Online Redo Logs & Archivelog | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7418913909467910144-a7Fw) |
 | [M1.8](Module-1-Architecture/M1.8-Control-Files/) | Control Files | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
 | [M1.9](Module-1-Architecture/M1.9-TEMP-Tablespace/) | TEMP Tablespace | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
-| M1.10 | UNDO Tablespace et Transactions | - | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
+| [M1.10](Module-1-Architecture/M1.10-UNDO-Tablespace-Transactions/) | UNDO Tablespace et Transactions | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
 | M1.11 | Schemas et Utilisateurs Oracle | - | [Carrousel](https://www.linkedin.com/posts/activity-7429423185395322880-Ippe) |
 | M1.12 | Architecture Oracle - Vue d'ensemble | - | [Carrousel](https://www.linkedin.com/posts/activity-7431597458876628992-hmKZ) |
 
@@ -48,8 +48,9 @@ Cette formation est basee sur :
 | M2.5 | ALTER SYSTEM - Modifier les Parametres | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m25-alter-system-modifier-les-param%C3%A8tres-ugcPost-7456858061585031170-KeDX) |
 | M2.6 | Diagnostic STARTUP - Alert.log et Recovery | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m26-diagnostic-startup-alertlog-et-ugcPost-7459795577426518016-iqYr) |
 | M2.7 | Recovery Automatique au Demarrage | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m27-recovery-automatique-oracle-instance-ugcPost-7464848997296451603-QNJm) |
+| M2.8 | Instance vs Service vs LISTENER | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m28-instance-vs-service-oracle-listener-ugcPost-7472397250468614146-_rY_) |
 
-> **Prochain module** : M2.8 - Instance vs Service vs LISTENER
+> **Prochain module** : M3.1 - Gestion du stockage (Tablespaces, Datafiles, Segments)
 
 ---
 
