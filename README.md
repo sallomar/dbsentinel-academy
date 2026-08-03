@@ -34,7 +34,7 @@ Cette formation est basee sur :
 | [M1.8](Module-1-Architecture/M1.8-Control-Files/) | Control Files | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7421450581426208768-oQXk) |
 | [M1.9](Module-1-Architecture/M1.9-TEMP-Tablespace/) | TEMP Tablespace | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
 | [M1.10](Module-1-Architecture/M1.10-UNDO-Tablespace-Transactions/) | UNDO Tablespace et Transactions | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
-| M1.11 | Schemas et Utilisateurs Oracle | - | [Carrousel](https://www.linkedin.com/posts/activity-7429423185395322880-Ippe) |
+| [M1.11](Module-1-Architecture/M1.11-Schemas-Utilisateurs/) | Schemas et Utilisateurs Oracle | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7429423185395322880-Ippe) |
 | M1.12 | Architecture Oracle - Vue d'ensemble | - | [Carrousel](https://www.linkedin.com/posts/activity-7431597458876628992-hmKZ) |
 
 ### Module 2 : Gestion de l'Instance
@@ -50,7 +50,15 @@ Cette formation est basee sur :
 | M2.7 | Recovery Automatique au Demarrage | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m27-recovery-automatique-oracle-instance-ugcPost-7464848997296451603-QNJm) |
 | M2.8 | Instance vs Service vs LISTENER | - | [Carrousel](https://www.linkedin.com/posts/omar-sall_m28-instance-vs-service-oracle-listener-ugcPost-7472397250468614146-_rY_) |
 
-> **Prochain module** : M3.1 - Gestion du stockage (Tablespaces, Datafiles, Segments)
+### Module 3 : Gestion du Stockage
+
+| Module | Titre | Scripts | Theorie |
+|--------|-------|:-------:|:-------:|
+| M3.1 | Organisation du stockage Oracle | - | [Carrousel](https://lnkd.in/p/e4cpp67g) |
+| M3.2 | SYSTEM et SYSAUX - Les tablespaces critiques | - | [Carrousel](https://lnkd.in/p/e3u_E-X4) |
+| M3.3 | CREATE TABLESPACE | - | [Carrousel](https://lnkd.in/p/evZMHhyw) |
+
+> **Prochain module** : M3.4 - AUTOEXTEND : avantages et pieges
 
 ---
 
