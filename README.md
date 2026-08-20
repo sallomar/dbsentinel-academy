@@ -35,7 +35,7 @@ Cette formation est basee sur :
 | [M1.9](Module-1-Architecture/M1.9-TEMP-Tablespace/) | TEMP Tablespace | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7423987331981815808-o28L) |
 | [M1.10](Module-1-Architecture/M1.10-UNDO-Tablespace-Transactions/) | UNDO Tablespace et Transactions | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7426524022303129600-SBQ7) |
 | [M1.11](Module-1-Architecture/M1.11-Schemas-Utilisateurs/) | Schemas et Utilisateurs Oracle | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7429423185395322880-Ippe) |
-| M1.12 | Architecture Oracle - Vue d'ensemble | - | [Carrousel](https://www.linkedin.com/posts/activity-7431597458876628992-hmKZ) |
+| [M1.12](Module-1-Architecture/M1.12-Architecture-Vue-Ensemble/) | Architecture Oracle - Vue d'ensemble | 4 | [Carrousel](https://www.linkedin.com/posts/activity-7431597458876628992-hmKZ) |
 
 ### Module 2 : Gestion de l'Instance
 
@@ -57,8 +57,10 @@ Cette formation est basee sur :
 | M3.1 | Organisation du stockage Oracle | - | [Carrousel](https://lnkd.in/p/e4cpp67g) |
 | M3.2 | SYSTEM et SYSAUX - Les tablespaces critiques | - | [Carrousel](https://lnkd.in/p/e3u_E-X4) |
 | M3.3 | CREATE TABLESPACE | - | [Carrousel](https://lnkd.in/p/evZMHhyw) |
+| M3.4 | AUTOEXTEND | - | [Carrousel](https://lnkd.in/p/eqdMGxrz) |
+| M3.5 | Surveiller l'espace | - | [Carrousel](https://lnkd.in/p/eib8AY5d) |
 
-> **Prochain module** : M3.4 - AUTOEXTEND : avantages et pieges
+> **Prochain module** : M3.6 - Ajouter/Supprimer des datafiles
 
 ---
 
